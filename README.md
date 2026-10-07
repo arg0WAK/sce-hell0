@@ -7,6 +7,8 @@
 > One ELF to rule the chain. \
 > _Package the app. Embed the payloads. Run the chain._
 
+https://github.com/user-attachments/assets/87d32e32-f984-42f9-890c-7f6a4f531919
+
 ## Overview
 
 `sce-hell0` packages ELF payloads into a single `orchestrator.elf`
